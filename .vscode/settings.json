@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Quiet Light",
+    "python.languageServer": "Pylance",
+    "python.pythonPath": "C:\\Data\\SkillDrills\\Python\\venv\\Scripts\\python.exe",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "workbench.editorAssociations": [
+    ],
+    "kite.showWelcomeNotificationOnStartup": false,
+    "json.schemas": [
+    
+    ]
+}

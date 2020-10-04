@@ -1,0 +1,16 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h1>Add Blogs Page</h1>
+
+<form method="POST">
+    {{ form.hidden_tag() }}
+    {{ form.title.label }}
+    {{ form.title() }}
+    {{ form.author.label }}
+    {{ form.author() }}
+    {{ form.content.label }}
+    {{ form.content() }}
+    {{ form.submit() }}
+</form>
+
+{% endblock %}
